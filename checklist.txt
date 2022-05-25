@@ -1,0 +1,4 @@
+1) registration
+2) password
+3) validation
+4) deleted
